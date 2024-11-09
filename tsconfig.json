@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist" // Optional: Specify output directory for compiled files
+    },
+    "exclude": ["**/*.js"]
+  }
+  
